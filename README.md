@@ -10,10 +10,10 @@
 I am **Liding Zhang**, currently at the **Technical University of Munich (TUM)**, researching **robot motion planning, artificial intelligence, and advanced robotics systems**.  
 
 <p align="center">
-  <img src="https://github.com/Liding-Zhang/liding-zhang.github.io/blob/main/files/gif/central.gif" width="22%" />
-  <img src="https://github.com/Liding-Zhang/liding-zhang.github.io/blob/main/files/gif/collective.gif" width="22%" />
-  <img src="https://github.com/Liding-Zhang/liding-zhang.github.io/blob/main/files/gif/darko_cable.gif" width="22%" />
-  <img src="https://github.com/Liding-Zhang/liding-zhang.github.io/blob/main/files/gif/llm_darko.gif" width="22%" />
+  <img src="https://github.com/Liding-Zhang/liding-zhang.github.io/blob/main/files/gif/central.gif" width="24%" />
+  <img src="https://github.com/Liding-Zhang/liding-zhang.github.io/blob/main/files/gif/collective.gif" width="24%" />
+  <img src="https://github.com/Liding-Zhang/liding-zhang.github.io/blob/main/files/gif/darko_cable.gif" width="24%" />
+  <img src="https://github.com/Liding-Zhang/liding-zhang.github.io/blob/main/files/gif/llm_darko.gif" width="24%" />
 </p>
 
 ---
