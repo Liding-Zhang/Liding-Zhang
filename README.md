@@ -8,7 +8,7 @@
 
 🔥🔥🔥Welcome to my GitHub page!  🔥🔥🔥
 
-I am **Liding Zhang**, currently at the **Technical University of Munich (TUM)**, researching **robot Task and Motion Planning (TAMP), artificial intelligence (AI), and advanced robotics systems**.  
+I am **Liding Zhang**, currently at the **Technical University of Munich (TUM)**, researching robot **Task and Motion Planning (TAMP), artificial intelligence (AI), and advanced robotics systems**.  
 
 <p align="center">
   <img src="https://github.com/Liding-Zhang/liding-zhang.github.io/blob/main/files/gif/central.gif" width="24%" />
