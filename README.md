@@ -20,11 +20,16 @@ Some live demos:
 
 ---
 
-#### 🌏 Things I am currently working on:
+### 🔥 Recent News
+- *2025.07*: 🥰🥰 [Multi-Informed Trees (MIT*)](https://ieeexplore.ieee.org/abstract/document/11083625) accepted by IEEE T-ASE, come and check our latest research. [[Video](https://youtu.be/30RsBIdexTU)]
+- *2025.06*: Two <u>first author</u> papers accepted by IROS 2025. See you in Hangzhou!
+- *2025.03*: 🎉🎉 Check out our robotic survey, "[Motion planning for robotics: A review for sampling-based planners](https://www.sciencedirect.com/science/article/pii/S2667379724000652?via%3Dihub)", is rewarded by Certificate of [Editors' Choice](https://www.sciencedirect.com/journal/biomimetic-intelligence-and-robotics/about/editors-choice/the-top-three-selected-papers-in-the-issue-1-2025-are) at Biomimetic Intelligence and Robotics (BIRob) [JCR Q1, IF: 5.5].
+
+---
+
+#### 🌏 Things I am working on:
 - Research on **sampling-based asymptotically optimal motion planning** for heterogeneous robot manipulation.  
-- Contributing to **[AI.Factory (KI.FABRIK)](https://www.mec.ed.tum.de/lfe/forschung/projekte/kifabrik/)** and **[DARKO Project](https://darko-project.eu/)** funded research projects.  
-- Publishing in **top robotics and automation journals (T-ASE, T-Mech, RA-L, etc.)**.  
-- Active reviewer for leading IEEE robotics conferences and journals.  
+- Contributing to **[AI.Factory (KI.FABRIK)](https://www.mec.ed.tum.de/lfe/forschung/projekte/kifabrik/)** and **[DARKO Project](https://darko-project.eu/)** funded research projects. 
 
 ---
 
