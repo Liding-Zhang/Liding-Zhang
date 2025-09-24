@@ -2,8 +2,8 @@
 
 [![Website](https://img.shields.io/badge/Homepage-blue?style=social&logo=Google-Chrome&label=URL
 )](https://www.ce.cit.tum.de/air/people/liding-zhang-msc/)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/liding-zhang-388882228/)
 [![Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=AMFFKhkAAAAJ&hl=en)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/liding-zhang-388882228/)
 [![Github](https://img.shields.io/badge/-GithubPage-000?style=flat&logo=Github&logoColor=white)](https://liding-zhang.github.io/)
 
 🔥🔥🔥Welcome to my GitHub page!  🔥🔥🔥
