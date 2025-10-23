@@ -10,7 +10,7 @@
 
 I am **Liding Zhang**, currently at the **Technical University of Munich (TUM)** Group AIR, researching robot **Task and Motion Planning (TAMP), Artificial Intelligence (AI), and advanced robotics systems**.  
 
-Some live demos:
+Some lovely live demos:
 <p align="center">
   <img src="https://github.com/Liding-Zhang/liding-zhang.github.io/blob/main/files/gif/central.gif" width="24%" />
   <img src="https://github.com/Liding-Zhang/liding-zhang.github.io/blob/main/files/gif/collective.gif" width="24%" />
