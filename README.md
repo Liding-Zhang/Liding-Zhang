@@ -52,15 +52,11 @@ Some lovely live demos:
 
 #### :computer: Programming languages and tools:
 <p>
-<!-- 	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=liding-zhang&show_icons=true&hide_border=true" /> -->
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Liding-Zhang&hide_title=true&hide_border=true&layout=compact&langs_count=8&text_color=2C3E50&icon_color=2C3E50&bg_color=00000&theme=graywhite" />
-</div>
 
 <!-- <span > <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /> <img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" /> </span> -->
 
 
-
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/isocpp/isocpp-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/ros/ros-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
