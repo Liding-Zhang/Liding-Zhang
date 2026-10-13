@@ -8,7 +8,7 @@
 
 🔥🔥🔥Welcome to my GitHub page!  🔥🔥🔥
 
-I am **Liding Zhang**, currently at the **Technical University of Munich (TUM)** Group Robotics, Artificial Intelligence and Real-Time Systems (AIR), researching robot **task and motion planning (TAMP), Embodied AI，VLA and advanced robotics systems**.  
+I am **Liding Zhang**, currently at the **Technical University of Munich (TUM)** Group Robotics, Artificial Intelligence and Real-Time Systems (AIR), researching robot **task and motion planning (TAMP), Embodied AI, VLA, and advanced robotics systems**.  
 
 Some lovely live demos:
 <p align="center">
